@@ -1,5 +1,5 @@
-# Main Repo
-Braga Technologies Product Manager's Repo
+# Braga Product Manager Main Repo
+-- Navigate trough repository --
 
 ## Project Repo and Figma Table
 | Client      | Project | Repo | Figma |
