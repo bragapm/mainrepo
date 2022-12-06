@@ -34,7 +34,7 @@
 | Nodeflux | Braga X Nodeflux Dashboard | | |
 | Hyundai | Smart Kiosk | | |
 | Disnaker | Sijuara | https://github.com/bragapm/sijuara-disnaker | |
-| BUMD | Biro Bia | | |
+| BUMD | Dashboard Biro Bia | | |
 | Kominfo | PMT | | |
 | Dishut | Dashboard dan Aplikasi Dishut Jabar | | |
 | Petmil | Petani Milenial | | |
